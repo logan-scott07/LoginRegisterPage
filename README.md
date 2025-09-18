@@ -1,6 +1,6 @@
 # Account Login & Registration System
 
-## 📹 Demo
+##  Demo
 Check out the full video walkthrough:  
 [![Watch the video](https://img.youtube.com/vi/hSSSyyY2Z5c/0.jpg)](https://youtu.be/hSSSyyY2Z5c)
 
