@@ -11,7 +11,7 @@ This project demonstrates how to manage **user sessions**, handle **form validat
 
 ---
 
-## 🚀 Features
+##  Features
 - 🔑 **Login System** with email & password authentication  
 - 📝 **User Registration** with first name, last name, email, and password  
 - ⚡ **Session Management** to handle and display login/register errors  
@@ -20,7 +20,7 @@ This project demonstrates how to manage **user sessions**, handle **form validat
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 account_code/
 │── account_style.css     # Styles for login & register forms
@@ -31,7 +31,7 @@ account_code/
 ```
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **PHP** (sessions, form handling, authentication)  
 - **MySQL** (user database)  
 - **XamPP** (connectivity to database)
