@@ -6,8 +6,8 @@ Check out the full video walkthrough:
 
 ---
 
-A simple **PHP-based user authentication system** with login and registration functionality.  
-This project demonstrates how to manage **user sessions**, handle **form validation**, and toggle between **login** and **register forms** on the same page.
+**PHP-based user authentication system** with login and registration functionality.  
+This project demonstrates how to manage **user sessions** and handle **form validation**.
 
 ---
 
