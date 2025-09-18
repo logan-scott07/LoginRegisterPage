@@ -31,10 +31,12 @@ account_code/
 ```
 ---
 
-##  Technologies Used
+##  Languages
 - **PHP** (sessions, form handling, authentication)  
 - **MySQL** (user database)  
 - **XamPP** (connectivity to database)
 - **HTML / CSS / JavaScript** (frontend UI & form toggle)  
 
 ---
+
+
